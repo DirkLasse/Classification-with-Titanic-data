@@ -1,4 +1,4 @@
-# Prediction of sursival on the titanic using severel ML Clasification
+# Prediction of sursival on the titanic using several ML Clasification
 
 - Used Titanic data set from [Kaggle](https://www.kaggle.com/c/titanic) to built and compare a variety of ML classifiers with sckit-learn (logistic regression, decision trees, support vector machine, random forest) in order to predict survival of passengers on the titanic.  
     
